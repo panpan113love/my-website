@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To You</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>To My Favorite Person 💗</h1>
+    </header>
+    <main>
+        <section class="message">
+            <p>Hello, my dear! If I could write this whole page with every sweet thing I feel for you, it would stretch across the universe. But for now, here's a tiny part:</p>
+            <blockquote>
+                "Every moment we share, every conversation we have, makes me feel closer to you. You are my favorite story, my constant inspiration, and the one I cherish the most. Thank you for being you."
+            </blockquote>
+            <p>Let's keep creating memories, one page at a time.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Yours, forever and always. 💕</p>
+    </footer>
+</body>
+</html>
